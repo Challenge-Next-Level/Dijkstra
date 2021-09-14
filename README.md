@@ -5,7 +5,7 @@
 프로그래머스 코딩테스트 고득점 kit을 기준으로 1주 - 1주제 문제 풀이 및 주제 정리를 하고 있습니다.
 
 *di**jsk**stra*
-- **j**ung na rin | lee yoo **s**eok | **k**im un
+- **j**ung na rin | lee yoo **s**eok | **k**im gun
 
 
 ## Rule 
