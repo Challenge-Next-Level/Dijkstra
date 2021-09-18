@@ -36,6 +36,7 @@
         - [베스트앨범, Level 3](https://programmers.co.kr/learn/courses/30/lessons/42579)
             - 풀이
     - 백준
+        - 16165, 19583, 13915
 - **정리**
 ---
 ### Stack & Queue
