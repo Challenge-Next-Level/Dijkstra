@@ -28,18 +28,35 @@
 - **문제**
     - Programmers
         - [완주하지 못한 선수, Level 1](https://programmers.co.kr/learn/courses/30/lessons/42576) 
-            - 풀이
+            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week01_Hash.md)
         - [전화번호 목록, Level 2](https://programmers.co.kr/learn/courses/30/lessons/42577)
-            - 풀이
+            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week01_Hash.md)
         - [위장, Level 2](https://programmers.co.kr/learn/courses/30/lessons/42578)
-            - 풀이
+            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week1.%20Hash/HashProgrammers.md)
         - [베스트앨범, Level 3](https://programmers.co.kr/learn/courses/30/lessons/42579)
-            - 풀이
+            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week1.%20Hash/HashProgrammers.md)
     - 백준
-        - 16165, 19583, 13915
+        - [16165, 걸그룹 마스터 준석이](https://www.acmicpc.net/problem/16165)
+            - [풀이]()
+        - [19583, 싸이버개강총회](https://www.acmicpc.net/problem/19583)
+            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week01_hash/19583_%EC%8B%B8%EC%9D%B4%EB%B2%84%EA%B0%9C%EA%B0%95%EC%B4%9D%ED%9A%8C.py)
+        - [13915, 현수의 열기구 교실](https://www.acmicpc.net/problem/13915)
+            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week1.%20Hash/HashBOJ.md)
 - **정리**
 ---
 ### Stack & Queue
+- **문제**
+    - Programmers
+        - [기능개발, Level 2](https://programmers.co.kr/learn/courses/30/lessons/42586)
+            - [풀이]()
+        - [프린터, Level 2](https://programmers.co.kr/learn/courses/30/lessons/42587)
+            - [풀이]()
+        - [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
+            - [풀이]()
+        - [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
+            - [풀이]()
+    - 백준
+- **정리**
 ---
 ### Heap
 ---
