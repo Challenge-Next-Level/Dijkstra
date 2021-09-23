@@ -51,10 +51,10 @@
             - [풀이]()
         - [프린터, Level 2](https://programmers.co.kr/learn/courses/30/lessons/42587)
             - [풀이]()
-        - [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
-            - [풀이]()
-        - [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)
-            - [풀이]()
+        - [다리를 지나는 트럭, Level2](https://programmers.co.kr/learn/courses/30/lessons/42583)
+            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week02_stackAndQueue/lv2_%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD.py)
+        - [주식가격, Level2](https://programmers.co.kr/learn/courses/30/lessons/42584)
+            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week02_stackAndQueue/lv2_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.py)
     - 백준
 - **정리**
 ---
