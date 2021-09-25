@@ -49,14 +49,26 @@
 - **문제**
     - Programmers
         - [기능개발, Level 2](https://programmers.co.kr/learn/courses/30/lessons/42586)
-            - [풀이]()
+            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week2.%20Stack%26Queue/Stack%26Queue_Programmers.md)
         - [프린터, Level 2](https://programmers.co.kr/learn/courses/30/lessons/42587)
-            - [풀이]()
+            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week2.%20Stack%26Queue/Stack%26Queue_Programmers.md)
         - [다리를 지나는 트럭, Level2](https://programmers.co.kr/learn/courses/30/lessons/42583)
             - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week02_stackAndQueue/lv2_%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD.py)
         - [주식가격, Level2](https://programmers.co.kr/learn/courses/30/lessons/42584)
             - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week02_stackAndQueue/lv2_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.py)
     - 백준
+        - [가희와 자원 놀이, 21775](https://www.acmicpc.net/problem/21775)
+            - [풀이]()
+        - [뱀, 3190](https://www.acmicpc.net/problem/3190)
+            - [풀이]() 
+        - [주차장, 5464](https://www.acmicpc.net/problem/5464)
+            - [풀이]()
+        - [후위표기식2, 1935](https://www.acmicpc.net/problem/1935)
+            - [풀이]()
+        - [압축, 1662](https://www.acmicpc.net/problem/1662)
+            - [풀이]()
+        - [괄호제거, 2800](https://www.acmicpc.net/problem/2800)
+            - [풀이]()
 - **정리**
 ---
 ### Heap
