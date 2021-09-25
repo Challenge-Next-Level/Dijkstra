@@ -43,7 +43,7 @@
         - [13915, 현수의 열기구 교실](https://www.acmicpc.net/problem/13915)
             - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week1.%20Hash/HashBOJ.md)
 - **정리**
-    - [링크](https://blog.naver.com/harrison1995/222515357214)
+    - [gunkim의 hash 정리글](https://blog.naver.com/harrison1995/222515357214)
 ---
 ### Stack & Queue
 - **문제**
