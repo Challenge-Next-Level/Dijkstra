@@ -75,10 +75,10 @@
 import sys
 
 # 참여자 id, 턴 수 입력
-N, T = map(int, sys.stdin.readline().split())
+N, T = map(int, input().split())
 
 # 각 턴을 수행한 참여자의 id 입력
-turns = [int(x) for x in sys.stdin.readline().split()]
+turns = [int(x) for x in input().split()]
 
 # 소유중인 자원 카드 딕셔너리 생성
 cards = dict()
@@ -95,7 +95,7 @@ cardinput = 0
 while True:
     if(i >= len(turns)):
         for _ in range(len(turns) - cardinput):
-            sys.stdin.readline()
+            input()
         break
     else:      
         Id = turns[i]
@@ -111,7 +111,8 @@ while True:
                 # 소유중이던 acquire 카드 버리기
                 del cards[Id][card_num]
         else :
-            card = sys.stdin.readline()
+            card = input()
+            #card = sys.stdin.readline()
             cardinput += 1
             card_num = card.split()[0]
             sys.stdout.write(card_num + '\n')
@@ -129,25 +130,26 @@ while True:
 ```
 
     2 10
-    1 1 2 2 1 1 2 2 2 2
+    1 1 2 2 1 1 2 2 2 2 
+    1 next
+    1
+    2 acquire 1
+    2
+    3 acquire 1
+    3
+    3
+    4 next
+    4
+    5 release 1
+    5
+    3
+    6 release 1
+    6
+    7 next
+    7
+    8 acquire 1
+    8
     
-    
-
-
-    ---------------------------------------------------------------------------
-
-    IndexError                                Traceback (most recent call last)
-
-    <ipython-input-28-3f2589d93659> in <module>
-         48             print(card)
-         49             cardinput += 1
-    ---> 50             card_num = list(card.split())[0]
-         51             if("next" in card):
-         52                 print(card_num)
-    
-
-    IndexError: list index out of range
-
 
 ### 5464, 주차장
 
@@ -384,30 +386,33 @@ for i in sorted(result):
 - 첫째 줄에 게임이 몇 초에 끝나는지 출력한다.
 
 **아이디어**
-- 보드를 표현할 수 있는 2차원 배열 생성
-    - 0 으로 초기화
-    - 사과 위치 시 a 표시
-- 
+- 보드의 가장자리 벗어 낫는지 확인
+    - 최소값 <= 0 || 최대값 > N 확인
+- 사과의 위치 표시
+    - - [[x,y]] → [a1, a2],...
+- 뱀의 위치를 [[x,y]] 로 표시 → deque
+    - 이동 + 사과를 안 먹을 시
+        - deque에 append(머리의 위치) → pop()
+        - 머리의 위치 방향에 따라
+            - deque[0]의 위치에 방향 맞춰서 해당 값 + / -
+    - 이동 + 사과를 먹을 시
+        - deque에 append(머리의 위치)
 
 
 ```python
+from collections import deque
+import copy
+
 # 보드의 크기 N * N
 N = int(input())
-board = []
-for i in range(N):
-    line = []
-    for j in range(N):
-        line.append(0)
-    board.append(line)
 
 # 사과의 개수 K 개
 K = int(input())
+apple = []
 
 for k in range(K):
     l, c = map(int, input().split())
-    board[l-1][c-1] = 'a'
-    for b in board:
-        print(b)
+    apple.append([c,-l]) #[x,y]
     
 # 뱀의 방향 변환 횟수 L
 L = int(input())
@@ -417,59 +422,160 @@ for l in range(L):
     t = int(t)
     lotation[t] =  c
     
-time = 1
+# 뱀의 위치 표시 deque
+snake = deque()
+snake.append([1,-1])
+
+time = 1 # 시간
+way = 0 # 방향 [→,↓,←,↑]
 while True:
+    # 이동
+    head = copy.deepcopy(snake[0]) # 머리 위치 확인
+    if way == 0 :
+        head[0] += 1 #오른쪽으로 한칸
+    elif way == 1:
+        head[1] -= 1 # 아래로 한칸
+    elif way == 2:
+        head[0] -= 1 # 왼쪽으로 한칸
+    else :
+        head[1] += 1 #위쪽으로 한칸
     
+    # 자기 몸에 부딪혔는지 확인
+    if head in snake:
+        print(time)
+        break
+    else:
+        snake.appendleft(head) # 머리 이동
     
+    # 사과 먹었는지 확인
+    new_head = snake[0]
+    if new_head not in apple:
+        snake.pop() # 꼬리 이동
+    else:
+        apple.remove(new_head) # 사과 먹은거 처리
+        
+    # board 벗어났는지 확인
+    for s in snake:
+        s[1] = - s[1]
+    if max(max(snake)) > N or min(min(snake)) <= 0:
+        print(time)
+        break
+    for s in snake:
+        s[1] = - s[1]
+        
+    # 방향 전환
+    if time in lotation.keys():
+        if lotation[time] == 'D':
+            way += 1
+            if way == 4:
+                way = 0
+        else :
+            way -= 1
+            if way == -1:
+                way = 3
+        
+    # 시간 + 1
+    time += 1
 ```
 
-    6 
-    3
-    3 4
-    0
-    [0, 0, 0, 0, 0, 0]
-    [0, 0, 0, 0, 0, 0]
-    [0, 0, 0, 'a', 0, 0]
-    [0, 0, 0, 0, 0, 0]
-    [0, 0, 0, 0, 0, 0]
-    [0, 0, 0, 0, 0, 0]
-    2 5
-    0
-    [0, 0, 0, 0, 0, 0]
-    [0, 0, 0, 0, 'a', 0]
-    [0, 0, 0, 'a', 0, 0]
-    [0, 0, 0, 0, 0, 0]
-    [0, 0, 0, 0, 0, 0]
-    [0, 0, 0, 0, 0, 0]
-    5 3
-    0
-    [0, 0, 0, 0, 0, 0]
-    [0, 0, 0, 0, 'a', 0]
-    [0, 0, 0, 'a', 0, 0]
-    [0, 0, 0, 0, 0, 0]
-    [0, 0, 'a', 0, 0, 0]
-    [0, 0, 0, 0, 0, 0]
-    3
+    10
+    5
+    1 5
+    1 3
+    1 2
+    1 6
+    1 7
+    4
+    8 D
+    10 D
+    11 D
+    13 L
+    13
     
-
-
-    ---------------------------------------------------------------------------
-
-    TypeError                                 Traceback (most recent call last)
-
-    <ipython-input-139-8893153b9bc2> in <module>
-         22 L = input()
-         23 
-    ---> 24 for l in range(L):
-         25     t, c = input().split()
-         26     t = int(t)
-    
-
-    TypeError: 'str' object cannot be interpreted as an integer
-
 
 ### 1935, 후위표기식 2
 
+**문제**
+- 후위 표기식과 각 피연산자에 대응하는 값들이 주어져 있을 때, 그 식을 계산하는 프로그램을 작성하시오.
+
+**입력**
+- 첫째 줄에 피연산자의 개수(1 ≤ N ≤ 26) 가 주어진다. 그리고 둘째 줄에는 후위 표기식이 주어진다. (여기서 피연산자는 A~Z의 영대문자이며, A부터 순서대로 N개의 영대문자만이 사용되며, 길이는 100을 넘지 않는다) 그리고 셋째 줄부터 N+2번째 줄까지는 각 피연산자에 대응하는 값이 주어진다. 3번째 줄에는 A에 해당하는 값, 4번째 줄에는 B에 해당하는값 , 5번째 줄에는 C ...이 주어진다, 그리고 피연산자에 대응 하는 값은 100보다 작거나 같은 자연수이다.
+
+- 후위 표기식을 앞에서부터 계산했을 때, 식의 결과와 중간 결과가 -20억보다 크거나 같고, 20억보다 작거나 같은 입력만 주어진다.
+
+**출력**
+- 계산 결과를 소숫점 둘째 자리까지 출력한다.
+
+
+```python
+from collections import deque
+import string
+
+N = int(input())
+
+expression = list(input())
+
+nums = list()
+for _ in range(N):
+    nums.append(input())
+    
+alphas = string.ascii_uppercase[:N]
+for i in range(len(alphas)):
+    while alphas[i] in expression:
+        expression[expression.index(alphas[i])] = nums[i]
+
+nums = deque()
+
+for e in expression:
+    if e not in ['+','*','/','-']:
+        nums.append(e)
+    else:
+        a = nums.pop()
+        b = nums.pop()
+        c = str(eval(b + e + a))
+        nums.append(c)
+        
+print("{:.2f}".format(float(nums[0])))
+```
+
+    1
+    AA+A+
+    1
+    3.00
+    
+
 ### 1662, 압축
 
+**문제**
+- 압축되지 않은 문자열 S가 주어졌을 때, 이 문자열중 어떤 부분 문자열은 K(Q)와 같이 압축 할 수 있다. K는 한자리 정수이고, Q는 0자리 이상의 문자열이다. 이 Q라는 문자열이 K번 반복된다는 뜻이다. 압축된 문자열이 주어졌을 때, 이 문자열을 다시 압축을 푸는 프로그램을 작성하시오.
 
+**입력**
+- 첫째 줄에 압축된 문자열 S가 들어온다. S의 길이는 최대 50이다. 문자열은 (, ), 0-9사이의 숫자로만 들어온다.
+
+**출력**
+- 첫째 줄에 압축되지 않은 문자열의 길이를 출력한다. 이 값은 int범위다.
+
+**아이디어**
+- S → K(Q) 로 압축
+    - Q 라는 문자열이 K 번 반복 된다.
+- '(' 로 split 하여 리스트에 추가 한다.
+
+
+```python
+S = input().split("(")
+S[-1] = S[-1].split(")")
+sub_S = S.pop()
+
+result = 0
+
+for i in range(len(S)):
+    result = result + len(sub_S[i])
+    result = int(S[-1-i][-1]) * result
+    result = result + len(S[-1-i]) - 1
+
+print(result)
+```
+
+    33(56(3)2(71(9)))
+    112
+    
