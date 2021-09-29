@@ -22,3 +22,35 @@
         - result란 같은 날 배포될 기능의 개수
     - 바로 뒤의 원소보다 현재 원소가 크거나 같을 경우: result += 1
     - 바로 뒤의 원소보다 현재 원소가 클 경우: result = 1 (다시 초기화)
+
+```
+from collections import deque;
+import math;
+
+def solution(progresses, speeds):
+    pro = deque(progresses);
+    sp = deque(speeds);
+    result = 1;
+    answer = []
+    days = [];
+    
+    while pro:
+        leftover = 100 - pro.popleft();
+        s = sp.popleft();
+        days.append(math.ceil(leftover / s) );
+            
+    d = deque(days);
+    day = d.popleft();
+    
+    while d:
+        d_day = d.popleft();
+        if day >= d_day:
+            result += 1;
+        else:
+            answer.append(result);
+            result = 1;
+            day = d_day;
+            
+    answer.append(result);
+    return answer
+```
