@@ -71,6 +71,7 @@
         - [괄호제거, 2800](https://www.acmicpc.net/problem/2800)
             - [풀이]()
 - **정리**
+    - [Stack & Queue 정리](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week02.Stack%26Queue/%EC%8A%A4%ED%83%9D_%ED%81%90_%EC%84%A4%EB%AA%85ppt.pptx) 
 ---
 ### Heap
 ---
