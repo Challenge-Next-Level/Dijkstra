@@ -28,9 +28,9 @@
 - **문제**
     - Programmers
         - [완주하지 못한 선수, Level 1](https://programmers.co.kr/learn/courses/30/lessons/42576) 
-            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week01_Hash.md)
+            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week01.Hash/Programmers_Hash01.md)
         - [전화번호 목록, Level 2](https://programmers.co.kr/learn/courses/30/lessons/42577)
-            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week01_Hash.md)
+            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week01.Hash/Programmers_Hash02.md)
         - [위장, Level 2](https://programmers.co.kr/learn/courses/30/lessons/42578)
             - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week1.%20Hash/HashProgrammers.md)
         - [베스트앨범, Level 3](https://programmers.co.kr/learn/courses/30/lessons/42579)
