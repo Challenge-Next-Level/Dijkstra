@@ -37,7 +37,8 @@
             - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week1.%20Hash/HashProgrammers.md)
     - 백준
         - [16165, 걸그룹 마스터 준석이](https://www.acmicpc.net/problem/16165)
-            - [풀이]()
+            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week01.Hash/Baekjoon_Hash16165.md)
+            - [코드](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week01.Hash/16165.py)
         - [19583, 싸이버개강총회](https://www.acmicpc.net/problem/19583)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week01_hash/19583_%EC%8B%B8%EC%9D%B4%EB%B2%84%EA%B0%9C%EA%B0%95%EC%B4%9D%ED%9A%8C.py)
         - [13915, 현수의 열기구 교실](https://www.acmicpc.net/problem/13915)
