@@ -63,17 +63,25 @@
         - [뱀, 3190](https://www.acmicpc.net/problem/3190)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week02_stackAndQueue/3190_%EB%B1%80.py) 
         - [주차장, 5464](https://www.acmicpc.net/problem/5464)
-            - [풀이]()
+            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week2.%20Stack%26Queue/Stack%26Queue_BOJ.md)
         - [후위표기식2, 1935](https://www.acmicpc.net/problem/1935)
             - [풀이]()
         - [압축, 1662](https://www.acmicpc.net/problem/1662)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week02_stackAndQueue/1662_%EC%95%95%EC%B6%95.py)
         - [괄호제거, 2800](https://www.acmicpc.net/problem/2800)
-            - [풀이]()
+            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week2.%20Stack%26Queue/Stack%26Queue_BOJ.md)
 - **정리**
     - [Stack & Queue 정리](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week02.Stack%26Queue/%EC%8A%A4%ED%83%9D_%ED%81%90_%EC%84%A4%EB%AA%85ppt.pptx) 
 ---
 ### Heap
+- **문제**
+    - Programmers
+        - [더 맵게, Level2](https://programmers.co.kr/learn/courses/30/lessons/42626)
+        - [디스크 컨트롤러, Level3](https://programmers.co.kr/learn/courses/30/lessons/42627)
+        - [이중우선순위 큐, Level 3](https://programmers.co.kr/learn/courses/30/lessons/42628)
+    - 백준
+- **정리**
+    - [Heap 정리](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week3.%20Heap/Heap.md)
 ---
 ### 정렬
 ---
