@@ -80,6 +80,12 @@
         - [디스크 컨트롤러, Level3](https://programmers.co.kr/learn/courses/30/lessons/42627)
         - [이중우선순위 큐, Level 3](https://programmers.co.kr/learn/courses/30/lessons/42628)
     - 백준
+        - [크리스마스 선물, 14235](https://www.acmicpc.net/problem/14235)
+        - [맥주 축제, 17503](https://www.acmicpc.net/problem/17503)
+        - [최소 힙, 1927](https://www.acmicpc.net/problem/1927)
+        - [최대 힙, 11279](https://www.acmicpc.net/problem/11279)
+        - [카드 합체 놀이, 15903](https://www.acmicpc.net/problem/15903)
+        - [절댓값 힘, 11286](https://www.acmicpc.net/problem/11286)
 - **정리**
     - [Heap 정리](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week3.%20Heap/Heap.md)
 ---
