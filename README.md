@@ -77,7 +77,9 @@
 - **문제**
     - Programmers
         - [더 맵게, Level2](https://programmers.co.kr/learn/courses/30/lessons/42626)
+            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week03.Heap/Programmers_Heap01.md)
         - [디스크 컨트롤러, Level3](https://programmers.co.kr/learn/courses/30/lessons/42627)
+            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week03.Heap/Programmers_Heap02.md)
         - [이중우선순위 큐, Level 3](https://programmers.co.kr/learn/courses/30/lessons/42628)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week03_heap/lv3_%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.py)
     - 백준
