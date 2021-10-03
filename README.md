@@ -79,13 +79,20 @@
         - [더 맵게, Level2](https://programmers.co.kr/learn/courses/30/lessons/42626)
         - [디스크 컨트롤러, Level3](https://programmers.co.kr/learn/courses/30/lessons/42627)
         - [이중우선순위 큐, Level 3](https://programmers.co.kr/learn/courses/30/lessons/42628)
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week03_heap/lv3_%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.py)
     - 백준
         - [크리스마스 선물, 14235](https://www.acmicpc.net/problem/14235)
+            - [풀이]()
         - [맥주 축제, 17503](https://www.acmicpc.net/problem/17503)
+            - [풀이]()
         - [최소 힙, 1927](https://www.acmicpc.net/problem/1927)
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week03_heap/1927_%EC%B5%9C%EC%86%8C%ED%9E%99.py)
         - [최대 힙, 11279](https://www.acmicpc.net/problem/11279)
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week03_heap/11279_%EC%B5%9C%EB%8C%80%ED%9E%99.py)
         - [카드 합체 놀이, 15903](https://www.acmicpc.net/problem/15903)
+            - [풀이]()
         - [절댓값 힘, 11286](https://www.acmicpc.net/problem/11286)
+            - [풀이]()
 - **정리**
     - [Heap 정리](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week3.%20Heap/Heap.md)
 ---
