@@ -28,21 +28,21 @@
 - **문제**
     - Programmers
         - [완주하지 못한 선수, Level 1](https://programmers.co.kr/learn/courses/30/lessons/42576) 
-            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week01.Hash/Programmers_Hash01.md)
+            - [풀이/JungNarin](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week01.Hash/Programmers_Hash01.md)
         - [전화번호 목록, Level 2](https://programmers.co.kr/learn/courses/30/lessons/42577)
-            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week01.Hash/Programmers_Hash02.md)
+            - [풀이/JungNarin](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week01.Hash/Programmers_Hash02.md)
         - [위장, Level 2](https://programmers.co.kr/learn/courses/30/lessons/42578)
-            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week1.%20Hash/HashProgrammers.md)
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week1.%20Hash/HashProgrammers.md)
         - [베스트앨범, Level 3](https://programmers.co.kr/learn/courses/30/lessons/42579)
-            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week1.%20Hash/HashProgrammers.md)
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week1.%20Hash/HashProgrammers.md)
     - 백준
         - [16165, 걸그룹 마스터 준석이](https://www.acmicpc.net/problem/16165)
-            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week01.Hash/Baekjoon_Hash16165.md)
-            - [코드](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week01.Hash/16165.py)
+            - [풀이/JungNarin](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week01.Hash/Baekjoon_Hash16165.md)
+            - [코드/JungNarin](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week01.Hash/16165.py)
         - [19583, 싸이버개강총회](https://www.acmicpc.net/problem/19583)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week01_hash/19583_%EC%8B%B8%EC%9D%B4%EB%B2%84%EA%B0%9C%EA%B0%95%EC%B4%9D%ED%9A%8C.py)
-        - [13915, 현수의 열기구 교실](https://www.acmicpc.net/problem/13915)
-            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week1.%20Hash/HashBOJ.md)
+        - [13915, 현수의 열기구 교실/LeeYooseok](https://www.acmicpc.net/problem/13915)
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week1.%20Hash/HashBOJ.md)
 - **정리**
     - [gunkim의 hash 정리글](https://blog.naver.com/harrison1995/222515357214)
 ---
@@ -50,9 +50,9 @@
 - **문제**
     - Programmers
         - [기능개발, Level 2](https://programmers.co.kr/learn/courses/30/lessons/42586)
-            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week2.%20Stack%26Queue/Stack%26Queue_Programmers.md)
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week2.%20Stack%26Queue/Stack%26Queue_Programmers.md)
         - [프린터, Level 2](https://programmers.co.kr/learn/courses/30/lessons/42587)
-            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week2.%20Stack%26Queue/Stack%26Queue_Programmers.md)
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week2.%20Stack%26Queue/Stack%26Queue_Programmers.md)
         - [다리를 지나는 트럭, Level2](https://programmers.co.kr/learn/courses/30/lessons/42583)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week02_stackAndQueue/lv2_%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD.py)
         - [주식가격, Level2](https://programmers.co.kr/learn/courses/30/lessons/42584)
@@ -63,42 +63,53 @@
         - [뱀, 3190](https://www.acmicpc.net/problem/3190)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week02_stackAndQueue/3190_%EB%B1%80.py) 
         - [주차장, 5464](https://www.acmicpc.net/problem/5464)
-            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week2.%20Stack%26Queue/Stack%26Queue_BOJ.md)
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week2.%20Stack%26Queue/Stack%26Queue_BOJ.md)
         - [후위표기식2, 1935](https://www.acmicpc.net/problem/1935)
             - [풀이]()
         - [압축, 1662](https://www.acmicpc.net/problem/1662)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week02_stackAndQueue/1662_%EC%95%95%EC%B6%95.py)
         - [괄호제거, 2800](https://www.acmicpc.net/problem/2800)
-            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week2.%20Stack%26Queue/Stack%26Queue_BOJ.md)
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week2.%20Stack%26Queue/Stack%26Queue_BOJ.md)
 - **정리**
-    - [Stack & Queue 정리](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week02.Stack%26Queue/%EC%8A%A4%ED%83%9D_%ED%81%90_%EC%84%A4%EB%AA%85ppt.pptx) 
+    - [Stack & Queue 정리/JungNarin](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week02.Stack%26Queue/%EC%8A%A4%ED%83%9D_%ED%81%90_%EC%84%A4%EB%AA%85ppt.pptx) 
 ---
 ### Heap
 - **문제**
     - Programmers
         - [더 맵게, Level2](https://programmers.co.kr/learn/courses/30/lessons/42626)
-            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week03.Heap/Programmers_Heap01.md)
+            - [풀이/JungNarin](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week03.Heap/Programmers_Heap01.md)
         - [디스크 컨트롤러, Level3](https://programmers.co.kr/learn/courses/30/lessons/42627)
-            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week03.Heap/Programmers_Heap02.md)
+            - [풀이/JungNarin](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week03.Heap/Programmers_Heap02.md)
         - [이중우선순위 큐, Level 3](https://programmers.co.kr/learn/courses/30/lessons/42628)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week03_heap/lv3_%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.py)
     - 백준
         - [크리스마스 선물, 14235](https://www.acmicpc.net/problem/14235)
-            - [풀이]()
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week3.%20Heap/Heap_BOJ.md)
         - [맥주 축제, 17503](https://www.acmicpc.net/problem/17503)
-            - [풀이]()
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week3.%20Heap/Heap_BOJ.md)
         - [최소 힙, 1927](https://www.acmicpc.net/problem/1927)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week03_heap/1927_%EC%B5%9C%EC%86%8C%ED%9E%99.py)
         - [최대 힙, 11279](https://www.acmicpc.net/problem/11279)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week03_heap/11279_%EC%B5%9C%EB%8C%80%ED%9E%99.py)
         - [카드 합체 놀이, 15903](https://www.acmicpc.net/problem/15903)
-            - [풀이]()
+            - [풀이/JungNarin]()
         - [절댓값 힘, 11286](https://www.acmicpc.net/problem/11286)
-            - [풀이]()
+            - [풀이/JungNarin]()
 - **정리**
-    - [Heap 정리](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week3.%20Heap/Heap.md)
+    - [Heap 정리/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week3.%20Heap/Heap.md)
 ---
 ### 정렬
+- **문제**
+    - Programmers
+        - [K번째 수, Level1](https://programmers.co.kr/learn/courses/30/lessons/42748)
+            - [풀이]()
+        - [가장 큰 수, Level2](https://programmers.co.kr/learn/courses/30/lessons/42746)
+            - [풀이]()
+        - [HI-Index, Level2](https://programmers.co.kr/learn/courses/30/lessons/42747)
+            - [풀이]()
+    - 백준
+- **정리**
+    - [정렬 정리]()
 ---
 ### 완전탐색
 ---
