@@ -17,3 +17,27 @@
 ### 조건
 
 ### 아이디어
+- 가장 큰 수가 heappop으로 먼저 힙을 빠져 나와야 한다.
+  - 입력이 모두 자연수니까 -1을 곱해서 힙에 넣고, 뺄 때 -1을 다시 곱해서 양수로 만들어주자.
+- 입력받은 정수가 0인 경우 or 자연수인 경우
+- 힙이 비어 있는 경우 or 비어 있지 않은 경우
+
+```
+import heapq
+import sys
+
+heap = []
+N = int(sys.stdin.readline())
+for i in range(N):
+    n = int(sys.stdin.readline())
+    if n == 0:
+        if heap:
+            print(heapq.heappop(heap) * -1)
+        else:
+            print(0)
+    else:
+        heapq.heappush(heap, -1*n)
+
+```
+
+
