@@ -92,9 +92,9 @@
         - [최대 힙, 11279](https://www.acmicpc.net/problem/11279)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week03_heap/11279_%EC%B5%9C%EB%8C%80%ED%9E%99.py)
         - [카드 합체 놀이, 15903](https://www.acmicpc.net/problem/15903)
-            - [풀이/JungNarin]()
+            - [풀이/JungNarin](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week03.Heap/Baekjoon_Heap15903.md)
         - [절댓값 힘, 11286](https://www.acmicpc.net/problem/11286)
-            - [풀이/JungNarin]()
+            - [풀이/JungNarin](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/JungNarin/week03.Heap/Baekjoon_Heap11286.md)
 - **정리**
     - [Heap 정리/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week3.%20Heap/Heap.md)
 ---
