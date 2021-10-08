@@ -10,7 +10,7 @@ def min_heap():
     for i in range(int(N)):
         num = int(sys.stdin.readline())
         if num == 0:
-            if len(heap) == 0:
+            if heap:
                 print(0)
             else:
                 print(heapq.heappop(heap))
