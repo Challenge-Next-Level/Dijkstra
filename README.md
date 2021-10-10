@@ -102,7 +102,7 @@
 - **문제**
     - Programmers
         - [K번째 수, Level1](https://programmers.co.kr/learn/courses/30/lessons/42748)
-            - [풀이]()
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week4.%20%EC%A0%95%EB%A0%AC/%EC%A0%95%EB%A0%AC_Programmers.md)
         - [가장 큰 수, Level2](https://programmers.co.kr/learn/courses/30/lessons/42746)
             - [풀이]()
         - [HI-Index, Level2](https://programmers.co.kr/learn/courses/30/lessons/42747)
@@ -113,9 +113,9 @@
         - [저울, 2437](https://www.acmicpc.net/problem/2437)
             - [풀이/gunkim]()
         - [수열 정렬, 1015](https://www.acmicpc.net/problem/1015)
-            - [풀이]()
+            - [풀이/LeeYooseok]()
         - [아우으 우아으이야!!, 15922](https://www.acmicpc.net/problem/15922)
-            - [풀이]()
+            - [풀이/LeeYooseok]()
         - [접미사 배열, 11656](https://www.acmicpc.net/problem/11656)
             - [풀이]()
         - [베스트셀러, 1302](https://www.acmicpc.net/problem/1302)
