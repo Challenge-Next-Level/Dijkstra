@@ -108,6 +108,18 @@
         - [HI-Index, Level2](https://programmers.co.kr/learn/courses/30/lessons/42747)
             - [풀이]()
     - 백준
+        - [나이순 정렬, 10814](https://www.acmicpc.net/problem/10814)
+            - [풀이/gunkim]()
+        - [저울, 2437](https://www.acmicpc.net/problem/2437)
+            - [풀이/gunkim]()
+        - [수열 정렬, 1015](https://www.acmicpc.net/problem/1015)
+            - [풀이]()
+        - [아우으 우아으이야!!, 15922](https://www.acmicpc.net/problem/15922)
+            - [풀이]()
+        - [접미사 배열, 11656](https://www.acmicpc.net/problem/11656)
+            - [풀이]()
+        - [베스트셀러, 1302](https://www.acmicpc.net/problem/1302)
+            - [풀이]()
 - **정리**
     - [정렬 정리]()
 ---
