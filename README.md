@@ -109,9 +109,9 @@
             - [풀이]()
     - 백준
         - [나이순 정렬, 10814](https://www.acmicpc.net/problem/10814)
-            - [풀이/gunkim]()
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week04_sort/10814_%EB%82%98%EC%9D%B4%EC%88%9C%EC%A0%95%EB%A0%AC.py)
         - [저울, 2437](https://www.acmicpc.net/problem/2437)
-            - [풀이/gunkim]()
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week04_sort/2437_%EC%A0%80%EC%9A%B8.py)
         - [수열 정렬, 1015](https://www.acmicpc.net/problem/1015)
             - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week4.%20%EC%A0%95%EB%A0%AC/%EC%A0%95%EB%A0%AC_BOJ.md)
         - [아우으 우아으이야!!, 15922](https://www.acmicpc.net/problem/15922)
