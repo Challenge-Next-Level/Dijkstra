@@ -8,7 +8,7 @@ import sys
 def scale():
     N = int(input())
     weight = list(map(int, sys.stdin.readline().split()))
-    weight = sorted(weight)
+    weight.sort()
     num = 1
     for i in range(N):
         if num < weight[i]:
