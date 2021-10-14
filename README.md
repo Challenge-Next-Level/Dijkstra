@@ -24,6 +24,9 @@
 
 ## Study Log
 ---
+### 모르던 개념 정리
+- [input() 과 sys.stdin.readline()의 성능 차이](https://blog.naver.com/harrison1995/222536571228)
+---
 ### Hash
 - **문제**
     - Programmers
