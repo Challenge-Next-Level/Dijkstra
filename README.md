@@ -124,9 +124,17 @@
         - [베스트셀러, 1302](https://www.acmicpc.net/problem/1302)
             - [풀이]()
 - **정리**
-    - [정렬 정리]()
+    - [gunkim의 정렬 정리글](https://blog.naver.com/harrison1995/222538085163)
 ---
 ### 완전탐색
+- **문제**
+    - Programmers
+        - [모의고사, Level1]()
+            - [풀이]()
+        - [소수 찾기, Level2]()
+            - [풀이]()
+        - [카펫, Level2]()
+            - [풀이]()
 ---
 ### Greedy
 ---
