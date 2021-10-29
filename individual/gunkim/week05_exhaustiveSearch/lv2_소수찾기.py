@@ -1,3 +1,6 @@
+# set을 이용해서 합집합, 교집합을 구할 수 있다! '|' == 합집합, '&' == 교집합 을 의미한다!
+# (1) 소수 판별시 제곱근 까지만 비교하는 이유 정리하기
+# (2) 에라토스테네스의 체는 무엇이고 언제 사용하는지 정리하기
 from itertools import permutations
 from math import sqrt
 
