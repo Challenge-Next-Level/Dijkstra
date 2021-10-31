@@ -26,6 +26,7 @@
 ---
 ### 모르던 개념 정리
 - [input() 과 sys.stdin.readline()의 성능 차이](https://blog.naver.com/harrison1995/222536571228)
+- [소수 판별법 및 찾는법(에라토스테네스의 체 활용)](https://blog.naver.com/harrison1995/222552163558)
 ---
 ### Hash
 - **문제**
