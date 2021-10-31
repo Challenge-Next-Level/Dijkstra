@@ -129,11 +129,22 @@
 ### 완전탐색
 - **문제**
     - Programmers
-        - [모의고사, Level1]()
+        - [모의고사, Level1](https://programmers.co.kr/learn/courses/30/lessons/42840)
+            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week05_exhaustiveSearch/lv1_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.py)
+        - [소수 찾기, Level2](https://programmers.co.kr/learn/courses/30/lessons/42839)
+            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week05_exhaustiveSearch/lv2_%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.py)
+        - [카펫, Level2](https://programmers.co.kr/learn/courses/30/lessons/42842)
+            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week05_exhaustiveSearch/lv2_%EC%B9%B4%ED%8E%AB.py)
+    - 백준
+        - [체스판 다시 칠하기, 1018](https://www.acmicpc.net/problem/1018)
             - [풀이]()
-        - [소수 찾기, Level2]()
+        - [퇴사, 14501](https://www.acmicpc.net/problem/14501)
             - [풀이]()
-        - [카펫, Level2]()
+        - [외판원 순회2, 10971](https://www.acmicpc.net/problem/10971)
+            - [풀이]()
+        - [부분수열의 합, 1182](https://www.acmicpc.net/problem/1182)
+            - [풀이]()
+        - [영화감독 숌, 1436](https://www.acmicpc.net/problem/1436)
             - [풀이]()
 ---
 ### Greedy
