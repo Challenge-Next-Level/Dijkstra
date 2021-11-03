@@ -1,28 +1,14 @@
-from collections import Counter
-
-
+# 나의 첫 풀이는 6이 정말 연속으로 3개가 있는 지 판별하는 것을 구현했다
+# 하지만 역시 더 쉽고 간편한 풀이가 있었고 그걸로 대체했다
+# 그래도 미천한 나의 풀이도 백준에서 통과는 시켜줬었다...ㅎ
 def movie_director():
     answer = 666
     number = 1
     num = int(input())
-    if num == 1:
-        return answer
     while number < num:
         answer += 1
-        lst = list(str(answer))
-        c = Counter(lst)
-        if c['6'] and c['6'] >= 3:
-            cnt, seq = 0, 0
-            for n in lst:
-                if n == '6':
-                    seq = 1
-                    cnt += 1
-                elif n != '6' and seq == 1:
-                    seq = 0
-                    cnt = 0
-                if cnt == 3:
-                    number += 1
-                    break
+        if '666' in str(answer):
+            number += 1
     return answer
 
 
