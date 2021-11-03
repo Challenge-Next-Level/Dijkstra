@@ -138,9 +138,9 @@
             - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week05_exhaustiveSearch/lv2_%EC%B9%B4%ED%8E%AB.py)
     - 백준
         - [체스판 다시 칠하기, 1018](https://www.acmicpc.net/problem/1018)
-            - [풀이]()
+            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week05_exhaustiveSearch/1018_%EC%B2%B4%EC%8A%A4%ED%8C%90%EB%8B%A4%EC%8B%9C%EC%B9%A0%ED%95%98%EA%B8%B0.py)
         - [퇴사, 14501](https://www.acmicpc.net/problem/14501)
-            - [풀이]()
+            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week05_exhaustiveSearch/14501_%ED%87%B4%EC%82%AC.py)
         - [외판원 순회2, 10971](https://www.acmicpc.net/problem/10971)
             - [풀이]()
         - [부분수열의 합, 1182](https://www.acmicpc.net/problem/1182)
