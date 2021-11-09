@@ -4,13 +4,14 @@ def solution(number, k):
     # stack 용도로 생성
     answer = []
     # stack에 숫자를 넣으면서 stack의 top값이 넣어야하는 숫자보다 작다면 pop
+    # k > 0이라는 조건이 중요! k개 만큼 제거를 해야하기 때문
     for num in number:
         while k > 0 and answer and answer[-1] < num:
             answer.pop()
             k -= 1
         answer.append(num)
-    # 예외 처리
-    # 위 조건에서 k가 0이 되지 않고 끝이 날 수 있다. 따라서 맨 뒤에서 부터 k개의 숫자를 없앤다.
+    # 예외 처리 중요!!!
+    # 위 조건에서 k가 0이 되지 않고 끝이 날 수 있다. 따라서 맨 뒤에서 부터 k개의 숫자를 없앤것을 반환한다.
     return ''.join(answer[:len(answer) - k])
 
 
