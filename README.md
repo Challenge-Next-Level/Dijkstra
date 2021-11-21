@@ -152,17 +152,26 @@
 - **문제**
     - Programmers
         - [체육복, Level1](https://programmers.co.kr/learn/courses/30/lessons/42862)
-            - [풀이]()
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week06_greedy/lv1_%EC%B2%B4%EC%9C%A1%EB%B3%B5.py)
         - [조이스틱, Level2](https://programmers.co.kr/learn/courses/30/lessons/42860)
             - [풀이]()
         - [큰 수 만들기, Level2](https://programmers.co.kr/learn/courses/30/lessons/42883)
-            - [풀이]()
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week06_greedy/lv2_%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
         - [구명보트, Level 2](https://programmers.co.kr/learn/courses/30/lessons/42885)
             - [풀이]()
         - [섬 연결하기, Level3](https://programmers.co.kr/learn/courses/30/lessons/42861)
-            - [풀이]()
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week06_greedy/lv3_%EC%84%AC%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.py)
         - [단속카메라, Level3](https://programmers.co.kr/learn/courses/30/lessons/42884)
             - [풀이]()
+    - 백준
+        - [ATM, 11399](https://www.acmicpc.net/problem/11399)
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week06_greedy/11399_ATM.py)
+        - [통나무 건너뛰기, 11497](https://www.acmicpc.net/problem/11497)
+            - []()
+        - [이장님 초대, 9237](https://www.acmicpc.net/problem/9237)
+            - []()
+        - [보물, 1026](https://www.acmicpc.net/problem/1026)
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week06_greedy/1026_%EB%B3%B4%EB%AC%BC.py)
 ---
 ### 동적계획법
 ---
