@@ -142,7 +142,7 @@
         - [퇴사, 14501](https://www.acmicpc.net/problem/14501)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week05_exhaustiveSearch/14501_%ED%87%B4%EC%82%AC.py)
         - [외판원 순회2, 10971](https://www.acmicpc.net/problem/10971)
-            - [풀이]()
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week05_exhaustiveSearch/10971_%EC%99%B8%ED%8C%90%EC%9B%90%EC%88%9C%ED%9A%8C2.py)
         - [부분수열의 합, 1182](https://www.acmicpc.net/problem/1182)
             - [풀이]()
         - [영화감독 숌, 1436](https://www.acmicpc.net/problem/1436)
