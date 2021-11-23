@@ -132,11 +132,11 @@
 - **문제**
     - Programmers
         - [모의고사, Level1](https://programmers.co.kr/learn/courses/30/lessons/42840)
-            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week05_exhaustiveSearch/lv1_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.py)
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week05_exhaustiveSearch/lv1_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.py)
         - [소수 찾기, Level2](https://programmers.co.kr/learn/courses/30/lessons/42839)
-            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week05_exhaustiveSearch/lv2_%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.py)
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week05_exhaustiveSearch/lv2_%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.py)
         - [카펫, Level2](https://programmers.co.kr/learn/courses/30/lessons/42842)
-            - [풀이](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week05_exhaustiveSearch/lv2_%EC%B9%B4%ED%8E%AB.py)
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week05_exhaustiveSearch/lv2_%EC%B9%B4%ED%8E%AB.py)
     - 백준
         - [체스판 다시 칠하기, 1018](https://www.acmicpc.net/problem/1018)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week05_exhaustiveSearch/1018_%EC%B2%B4%EC%8A%A4%ED%8C%90%EB%8B%A4%EC%8B%9C%EC%B9%A0%ED%95%98%EA%B8%B0.py)
