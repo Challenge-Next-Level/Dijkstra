@@ -183,8 +183,6 @@
             - [풀이]()
         - [등굣길, Level3](https://programmers.co.kr/learn/courses/30/lessons/42898)
             - [풀이]()
-        - [도둑질, Level4](https://programmers.co.kr/learn/courses/30/lessons/42897)
-            - [풀이]()
 ---
 ### 깊이/너비 우선 탐색 (DFS/BFS)
 ---
