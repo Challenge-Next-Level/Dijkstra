@@ -175,6 +175,16 @@
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week06_greedy/1026_%EB%B3%B4%EB%AC%BC.py)
 ---
 ### 동적계획법
+- **문제**
+    - Programmers
+        - [N으로 표현, Level3](https://programmers.co.kr/learn/courses/30/lessons/42895)
+            - [풀이]()
+        - [정수 삼각형, Level3](https://programmers.co.kr/learn/courses/30/lessons/43105)
+            - [풀이]()
+        - [등굣길, Level3](https://programmers.co.kr/learn/courses/30/lessons/42898)
+            - [풀이]()
+        - [도둑질, Level4](https://programmers.co.kr/learn/courses/30/lessons/42897)
+            - [풀이]()
 ---
 ### 깊이/너비 우선 탐색 (DFS/BFS)
 ---
