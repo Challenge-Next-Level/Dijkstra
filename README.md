@@ -178,9 +178,9 @@
 - **문제**
     - Programmers
         - [N으로 표현, Level3](https://programmers.co.kr/learn/courses/30/lessons/42895)
-            - [풀이]()
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week07_DP/lv3_N%EC%9C%BC%EB%A1%9C%ED%91%9C%ED%98%84.py)
         - [정수 삼각형, Level3](https://programmers.co.kr/learn/courses/30/lessons/43105)
-            - [풀이]()
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week07_DP/lv3_%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95.py)
         - [등굣길, Level3](https://programmers.co.kr/learn/courses/30/lessons/42898)
             - [풀이]()
 ---
