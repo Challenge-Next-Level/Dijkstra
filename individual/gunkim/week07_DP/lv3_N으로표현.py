@@ -9,13 +9,9 @@ def solution(N, number):
     # 2. dp[x]은 x개의 숫자를 이용해 만들 수 있는 숫자를 넣어둔 공간
     # 예외 처리) dp[x]를 완성시킬 때 dp[0]에 있는 숫자 set을 차집합(dp[x] - dp[0])으로 빼준다. 아래 코드가 있을 것.
     dp = [set([]) for _ in range(9)]
-    # 초기 dp 값 세팅
-    dp[1].add(N)
-    dp[1] = list(dp[1])
-    dp[0].add(N)
 
     # 최소 8개를 사용한 경우 까지만 dp를 만든다
-    for i in range(2, 9):
+    for i in range(1, 9):
         # 1. N을 i개 연속으로 이어붙인 숫자 생성
         dp[i].add(int(str(N) * i))
 
