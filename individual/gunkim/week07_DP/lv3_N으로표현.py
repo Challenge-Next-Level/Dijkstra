@@ -24,7 +24,7 @@ def solution(N, number):
         # (1 + 3)이 정확히 무슨 의미냐 하면은 (1개를 사용했을 때 + 3개를 사용했을 때 경우를 서로 사칙연산)을 하면 되는 것이다
         # 하지만 (1 + 3) 과 (3 + 1)은 정확히 같은 결과 값을 도출하기에 (3 + 1)을 수행할 필요가 없다. 따라서 아래와 같이 operand의 범위를 조정해준다
         for operand in range(1, i // 2 + 1):
-            # operand와 i - operand 의 경우를 서로 사칙연산
+            # 2. operand와 i - operand 의 경우를 서로 사칙연산하여 숫자 생성
             for op1 in range(len(dp[operand])):
                 for op2 in range(len(dp[i - operand])):
                     dp[i].add(dp[operand][op1] + dp[i - operand][op2]) # 덧셈
@@ -36,15 +36,15 @@ def solution(N, number):
                         dp[i].add(dp[i - operand][op2] // dp[operand][op1])
                     if dp[i - operand][op2] != 0:
                         dp[i].add(dp[operand][op1] // dp[i - operand][op2])
-        # 차집합을 이용하여 이미 만들었던 수는 제거
+        # 3. 차집합을 이용하여 이전에 만들었던 수는 제거
         dp[i] -= dp[0]
-        # number가 있다면 i 반환
+        # 4. number가 있다면 i 반환
         if number in dp[i]:
             return i
         # 새로 생성한 수를 dp[0] set에 추가
         dp[0] |= dp[i]
         dp[i] = list(dp[i])
-    # 위 과정을 모두 진행한 후라면 답이 없다는 뜻이니 -1 리턴
+    # 5. 위 과정을 모두 진행한 후라면 답이 없다는 뜻이니 -1 리턴
     return -1
 
 
