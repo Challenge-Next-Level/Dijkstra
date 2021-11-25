@@ -183,6 +183,8 @@
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week07_DP/lv3_%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95.py)
         - [등굣길, Level3](https://programmers.co.kr/learn/courses/30/lessons/42898)
             - [풀이]()
+        - [도둑질, Level4](https://programmers.co.kr/learn/courses/30/lessons/42897)
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week07_DP/lv4_%EB%8F%84%EB%91%91%EC%A7%88.py)
 ---
 ### 깊이/너비 우선 탐색 (DFS/BFS)
 ---
