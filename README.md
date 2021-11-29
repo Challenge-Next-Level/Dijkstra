@@ -191,9 +191,9 @@
         - [2*n 타일링2, 11727](https://www.acmicpc.net/problem/11727)
             - [풀이]()
         - [동전1, 2293](https://www.acmicpc.net/problem/2293)
-            - [풀이/gunkim]()
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week07_DP/2293_%EB%8F%99%EC%A0%841.py)
         - [이동하기, 11048](https://www.acmicpc.net/problem/11048)
-            - [풀이/gunkim]()
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week07_DP/11048_%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0.py)
 ---
 ### 깊이/너비 우선 탐색 (DFS/BFS)
 ---
