@@ -27,7 +27,7 @@
 ### 모르던 개념 정리
 - [input() 과 sys.stdin.readline()의 성능 차이](https://blog.naver.com/harrison1995/222536571228)
 - [소수 판별법 및 찾는법(에라토스테네스의 체 활용)](https://blog.naver.com/harrison1995/222552163558)
-- [TSP(외판원 순회): 완전탐색, 비트마스킹, DP로 해결하기](https://blog.naver.com/harrison1995/222575507538)
+- [TSP Algorithm이란? 비트마스킹, DP로 해결하기](https://blog.naver.com/harrison1995/222575507538)
 ---
 ### Hash
 - **문제**
