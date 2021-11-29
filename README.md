@@ -185,6 +185,15 @@
             - [풀이]()
         - [도둑질, Level4](https://programmers.co.kr/learn/courses/30/lessons/42897)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week07_DP/lv4_%EB%8F%84%EB%91%91%EC%A7%88.py)
+    - 백준
+        - [다리 놓기, 1010](https://www.acmicpc.net/problem/1010)
+            - [풀이]()
+        - [2*n 타일링2, 11727](https://www.acmicpc.net/problem/11727)
+            - [풀이]()
+        - [동전1, 2293](https://www.acmicpc.net/problem/2293)
+            - [풀이/gunkim]()
+        - [이동하기, 11048](https://www.acmicpc.net/problem/11048)
+            - [풀이/gunkim]()
 ---
 ### 깊이/너비 우선 탐색 (DFS/BFS)
 ---
