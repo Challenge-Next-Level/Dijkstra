@@ -25,9 +25,14 @@
 ## Study Log
 ---
 ### 모르던 개념 정리
-- [input() 과 sys.stdin.readline()의 성능 차이](https://blog.naver.com/harrison1995/222536571228)
-- [소수 판별법 및 찾는법(에라토스테네스의 체 활용)](https://blog.naver.com/harrison1995/222552163558)
-- [TSP Algorithm이란? 비트마스킹, DP로 해결하기](https://blog.naver.com/harrison1995/222575507538)
+1. [input() 과 sys.stdin.readline()의 성능 차이](https://blog.naver.com/harrison1995/222536571228)
+2. [소수 판별법 및 찾는법(에라토스테네스의 체 활용)](https://blog.naver.com/harrison1995/222552163558)
+3. [TSP Algorithm이란? 비트마스킹, DP로 해결하기](https://blog.naver.com/harrison1995/222575507538)
+   - [관련 문제: 백준 - 2098번](https://www.acmicpc.net/problem/2098)
+   - [gunkim 풀이](https://github.com/kimgun95/algorithm/blob/master/03_TSP/2098_%EC%99%B8%ED%8C%90%EC%9B%90%EC%88%9C%ED%9A%8C.py)
+4. [Kruskal Algorithm이란?(MST, Union-Find Algoritm)](https://blog.naver.com/harrison1995)
+    - [관련 문제: 백준 - 1647번](https://www.acmicpc.net/problem/1647)
+    - [gunkim 풀이](https://github.com/kimgun95/algorithm/blob/master/01_Greedy/1647_%EB%8F%84%EC%8B%9C%EB%B6%84%ED%95%A0%EA%B3%84%ED%9A%8D.py)
 ---
 ### Hash
 - **문제**
