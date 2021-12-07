@@ -206,11 +206,11 @@
         - [타겟 넘버, Level2](https://programmers.co.kr/learn/courses/30/lessons/43165)
             - [풀이]()
         - [네트워크, Level3](https://programmers.co.kr/learn/courses/30/lessons/43162)
-            - [풀이]()
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week08_dfsAndBfs/lv3_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.py)
         - [단어 변환, Level3](https://programmers.co.kr/learn/courses/30/lessons/43163)
-            - [풀이]()
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week08_dfsAndBfs/lv3_%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.py)
         - [여행경로, Level3](https://programmers.co.kr/learn/courses/30/lessons/43164)
-            - [풀이]()
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week08_dfsAndBfs/lv3_%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C.py)
 ---
 ### 이분탐색
 ---
