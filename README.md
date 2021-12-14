@@ -211,6 +211,15 @@
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week08_dfsAndBfs/lv3_%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98.py)
         - [여행경로, Level3](https://programmers.co.kr/learn/courses/30/lessons/43164)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week08_dfsAndBfs/lv3_%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C.py)
+    - 백준
+        - [영역 구하기, 2583](https://www.acmicpc.net/problem/2583)
+            - [풀이]()
+        - [바이러스, 2606](https://www.acmicpc.net/problem/2606)
+            - [풀이]()
+        - [바닥장식, 1388](https://www.acmicpc.net/problem/1388)
+            - [풀이]()
+        - [현수막, 14716](https://www.acmicpc.net/problem/14716)
+            - [풀이]()
 ---
 ### 이분탐색
 ---
