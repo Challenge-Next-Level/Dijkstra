@@ -213,15 +213,30 @@
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week08_dfsAndBfs/lv3_%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C.py)
     - 백준
         - [영역 구하기, 2583](https://www.acmicpc.net/problem/2583)
-            - [풀이]()
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week08_dfsAndBfs/2583_%EC%98%81%EC%97%AD%EA%B5%AC%ED%95%98%EA%B8%B0.py)
         - [바이러스, 2606](https://www.acmicpc.net/problem/2606)
-            - [풀이]()
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week08_dfsAndBfs/2606_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.py)
         - [바닥장식, 1388](https://www.acmicpc.net/problem/1388)
             - [풀이]()
         - [현수막, 14716](https://www.acmicpc.net/problem/14716)
             - [풀이]()
 ---
 ### 이분탐색
+- **문제**
+    - Programmers
+        - [입국심사, Level3](https://programmers.co.kr/learn/courses/30/lessons/43238)
+            - [풀이]()
+        - [징검다리, Level4](https://programmers.co.kr/learn/courses/30/lessons/43236)
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week09_binarySearch/lv4_%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC.py)
+    - 백준
+        - [사다리, 2022](https://www.acmicpc.net/problem/2022)
+            - [풀이]()
+        - [이상한 술집, 13702](https://www.acmicpc.net/problem/13702)
+            - [풀이]()
+        - [숫자 카드, 10815](https://www.acmicpc.net/problem/10815)
+            - [풀이/gunkim]()
+        - [예산, 2512](https://www.acmicpc.net/problem/2512)
+            - [풀이/gunkim]()
 ---
 ### 그래프
 ---
