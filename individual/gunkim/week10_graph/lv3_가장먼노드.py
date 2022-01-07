@@ -1,7 +1,7 @@
 from collections import deque
 
 
-def dfs(node, visit, adjNode): # dequeue를 이용한 dfs 탐색
+def bfs(node, visit, adjNode): # dequeue를 이용한 dfs 탐색
     dq = deque([[node, 0]])
     while dq:
         node, count = dq.popleft()
@@ -20,7 +20,7 @@ def solution(n, edge):
         a, b = i
         adjNode[a].append(b)
         adjNode[b].append(a)
-    dfs(1, visit, adjNode) # 1에서 dfs 탐색
+    bfs(1, visit, adjNode) # 1에서 dfs 탐색
     distance = max(visit) # 가장 거리가 먼 곳
     return visit.count(distance)
 
