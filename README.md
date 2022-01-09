@@ -150,9 +150,9 @@
         - [외판원 순회2, 10971](https://www.acmicpc.net/problem/10971)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week05_exhaustiveSearch/10971_%EC%99%B8%ED%8C%90%EC%9B%90%EC%88%9C%ED%9A%8C2.py)
         - [부분수열의 합, 1182](https://www.acmicpc.net/problem/1182)
-            - [풀이]()
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week5.%20%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_BOJ.ipynb)
         - [영화감독 숌, 1436](https://www.acmicpc.net/problem/1436)
-            - [풀이]()
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week5.%20%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_BOJ.ipynb)
 ---
 ### Greedy
 - **문제**
@@ -160,22 +160,22 @@
         - [체육복, Level1](https://programmers.co.kr/learn/courses/30/lessons/42862)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week06_greedy/lv1_%EC%B2%B4%EC%9C%A1%EB%B3%B5.py)
         - [조이스틱, Level2](https://programmers.co.kr/learn/courses/30/lessons/42860)
-            - [풀이]()
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week6.%20greedy/greedy_Programmers.md)
         - [큰 수 만들기, Level2](https://programmers.co.kr/learn/courses/30/lessons/42883)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week06_greedy/lv2_%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
         - [구명보트, Level 2](https://programmers.co.kr/learn/courses/30/lessons/42885)
-            - [풀이]()
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week6.%20greedy/greedy_Programmers.md)
         - [섬 연결하기, Level3](https://programmers.co.kr/learn/courses/30/lessons/42861)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week06_greedy/lv3_%EC%84%AC%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.py)
         - [단속카메라, Level3](https://programmers.co.kr/learn/courses/30/lessons/42884)
-            - [풀이]()
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week6.%20greedy/greedy_Programmers.md)
     - 백준
         - [ATM, 11399](https://www.acmicpc.net/problem/11399)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week06_greedy/11399_ATM.py)
         - [통나무 건너뛰기, 11497](https://www.acmicpc.net/problem/11497)
-            - []()
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week6.%20greedy/greedy_BOJ.md)
         - [이장님 초대, 9237](https://www.acmicpc.net/problem/9237)
-            - []()
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week6.%20greedy/greedy_BOJ.md)
         - [보물, 1026](https://www.acmicpc.net/problem/1026)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week06_greedy/1026_%EB%B3%B4%EB%AC%BC.py)
 ---
@@ -187,14 +187,14 @@
         - [정수 삼각형, Level3](https://programmers.co.kr/learn/courses/30/lessons/43105)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week07_DP/lv3_%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95.py)
         - [등굣길, Level3](https://programmers.co.kr/learn/courses/30/lessons/42898)
-            - [풀이]()
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week7.%20Dynamic%20Programming/Dynamic%20Programming_Programmers.md)
         - [도둑질, Level4](https://programmers.co.kr/learn/courses/30/lessons/42897)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week07_DP/lv4_%EB%8F%84%EB%91%91%EC%A7%88.py)
     - 백준
         - [다리 놓기, 1010](https://www.acmicpc.net/problem/1010)
-            - [풀이]()
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week7.%20Dynamic%20Programming/Dynamic%20Programming_BOJ.md)
         - [2*n 타일링2, 11727](https://www.acmicpc.net/problem/11727)
-            - [풀이]()
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week7.%20Dynamic%20Programming/Dynamic%20Programming_BOJ.md)
         - [동전1, 2293](https://www.acmicpc.net/problem/2293)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week07_DP/2293_%EB%8F%99%EC%A0%841.py)
         - [이동하기, 11048](https://www.acmicpc.net/problem/11048)
@@ -204,7 +204,7 @@
 - **문제**
     - Programmers
         - [타겟 넘버, Level2](https://programmers.co.kr/learn/courses/30/lessons/43165)
-            - [풀이]()
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week8.%20DFS%20%26%20BFS/DFS%20%26%20BFS_Programmers.md)
         - [네트워크, Level3](https://programmers.co.kr/learn/courses/30/lessons/43162)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week08_dfsAndBfs/lv3_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.py)
         - [단어 변환, Level3](https://programmers.co.kr/learn/courses/30/lessons/43163)
@@ -217,22 +217,22 @@
         - [바이러스, 2606](https://www.acmicpc.net/problem/2606)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week08_dfsAndBfs/2606_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.py)
         - [바닥장식, 1388](https://www.acmicpc.net/problem/1388)
-            - [풀이]()
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week8.%20DFS%20%26%20BFS/DFS%20%26%20BFS_BOJ.md)
         - [현수막, 14716](https://www.acmicpc.net/problem/14716)
-            - [풀이]()
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week8.%20DFS%20%26%20BFS/DFS%20%26%20BFS_BOJ.md)
 ---
 ### 이분탐색
 - **문제**
     - Programmers
         - [입국심사, Level3](https://programmers.co.kr/learn/courses/30/lessons/43238)
-            - [풀이]()
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week9.%20%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89_Programmers.md)
         - [징검다리, Level4](https://programmers.co.kr/learn/courses/30/lessons/43236)
             - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week09_binarySearch/lv4_%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC.py)
     - 백준
         - [사다리, 2022](https://www.acmicpc.net/problem/2022)
-            - [풀이]()
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week9.%20%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89_BOJ.md)
         - [이상한 술집, 13702](https://www.acmicpc.net/problem/13702)
-            - [풀이]()
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week9.%20%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89_BOJ.md)
         - [숫자 카드, 10815](https://www.acmicpc.net/problem/10815)
             - [풀이/gunkim]()
         - [예산, 2512](https://www.acmicpc.net/problem/2512)
@@ -240,3 +240,18 @@
 ---
 ### 그래프
 ---
+- **문제**
+    - Programmers
+        - [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
+            - [풀이/gunKim]()
+        - [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) 
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week10.%20Graph/Graph_Programmers.md)
+    - 백준
+        - [경로 찾기, 11403](https://www.acmicpc.net/problem/11403)
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week10.%20Graph/Graph_BOJ.md)
+        - [특정 거리의 도시 찾기, 18352](https://www.acmicpc.net/problem/18352)
+            - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week10.%20Graph/Graph_BOJ.md)
+        - [지름길, 1446](https://www.acmicpc.net/problem/1446)
+            - [풀이/gunKim]()
+        - [상근이의 여행, 9372](https://www.acmicpc.net/problem/9372)
+            - [풀이/gunKim]()
