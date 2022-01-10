@@ -234,16 +234,16 @@
         - [이상한 술집, 13702](https://www.acmicpc.net/problem/13702)
             - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week9.%20%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89/%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89_BOJ.md)
         - [숫자 카드, 10815](https://www.acmicpc.net/problem/10815)
-            - [풀이/gunkim]()
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week09_binarySearch/10815_%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C.py)
         - [예산, 2512](https://www.acmicpc.net/problem/2512)
-            - [풀이/gunkim]()
+            - [풀이/gunkim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week09_binarySearch/2512_%EC%98%88%EC%82%B0.py)
 ---
 ### 그래프
 - **문제**
     - Programmers
-        - [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
-            - [풀이/gunKim]()
-        - [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) 
+        - [가장 먼 노드, Level3](https://programmers.co.kr/learn/courses/30/lessons/49189)
+            - [풀이/gunKim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week10_graph/lv3_%EA%B0%80%EC%9E%A5%EB%A8%BC%EB%85%B8%EB%93%9C.py)
+        - [순위, Level3](https://programmers.co.kr/learn/courses/30/lessons/49191) 
             - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week10.%20Graph/Graph_Programmers.md)
     - 백준
         - [경로 찾기, 11403](https://www.acmicpc.net/problem/11403)
@@ -251,8 +251,7 @@
         - [특정 거리의 도시 찾기, 18352](https://www.acmicpc.net/problem/18352)
             - [풀이/LeeYooseok](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/LeeYooseok/week10.%20Graph/Graph_BOJ.md)
         - [지름길, 1446](https://www.acmicpc.net/problem/1446)
-            - [풀이/gunKim]()
+            - [풀이/gunKim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week10_graph/1446_%EC%A7%80%EB%A6%84%EA%B8%B8.py)
         - [상근이의 여행, 9372](https://www.acmicpc.net/problem/9372)
-            - [풀이/gunKim]()
-
+            - [풀이/gunKim](https://github.com/Challenge-Next-Level/Dijkstra/blob/master/individual/gunkim/week10_graph/9372_%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%EC%97%AC%ED%96%89.py)
 ---
